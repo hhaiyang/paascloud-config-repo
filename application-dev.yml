@@ -14,7 +14,7 @@ spring:
     auto: true
   rabbitmq:
     host: 104.243.20.183
-    port: 15672
+    port: 5672
     username: guest
     password: guest
   redis:
